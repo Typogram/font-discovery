@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Font Discovery",
+    "description": "",
+    "home_page_url": "https://typogram.co/font-discovery",
+    "feed_url": "https://typogram.co/font-discovery/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hua Shu"
+    },
+    "items": [
+    ]
+}
