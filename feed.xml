@@ -3,10 +3,22 @@
     <title>Font Discovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2022-05-16T16:43:31-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
     <id>https://typogram.co/font-discovery</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://typogram.co/font-discovery/test.html"/>
+        <id>https://typogram.co/font-discovery/test.html</id>
+
+        <updated>2022-05-16T16:43:31-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
