@@ -3,32 +3,12 @@
     <title>FontDiscovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>2022-05-19T23:14:46-04:00</updated>
+    <updated>2022-05-19T23:19:18-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
     <id>https://typogram.co/font-discovery</id>
 
-    <entry>
-        <title>test</title>
-        <author>
-            <name>Hua Shu</name>
-        </author>
-        <link href="https://typogram.co/font-discovery/test.html"/>
-        <id>https://typogram.co/font-discovery/test.html</id>
-
-        <updated>2022-05-19T22:49:42-04:00</updated>
-            <summary>
-                <![CDATA[
-                    test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>test</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>How to Use Langar: a Kooky Script Font to Catch Attention</title>
         <author>
@@ -36,8 +16,10 @@
         </author>
         <link href="https://typogram.co/font-discovery/how-to-use-langar-font.html"/>
         <id>https://typogram.co/font-discovery/how-to-use-langar-font.html</id>
+            <category term="Script"/>
+            <category term="Display"/>
 
-        <updated>2022-05-19T23:14:46-04:00</updated>
+        <updated>2022-05-19T23:19:18-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/1/wk70-cover.png" alt="" />
@@ -84,9 +66,9 @@
 <li>One weight</li>
 </ul>
 <h3>Specific Usage Tips </h3>
-<h4>How to use Langar for logos?</h4>
+<h4>How to Use Langar for logos?</h4>
 <p>Use cautiously. Casual, bold, and kooky means this speaks to an alternative, younger, and bold audience. Is this your target audience?</p>
-<h4>How to use Langar for marketing and branding?</h4>
+<h4>How to Use Langar for marketing and branding?</h4>
 <p>It is ok to use Langar for header-level information. But remember, Langar will always add a tone of bold and kooky. The strokes are also very thick, so best to be used in large sizes. Langer is not something that should be used everywhere on your site. When everything is bold and kooky, it can get overwhelming for a user. Please don't use this font for body or UI text -- it is not suited for small sizes.</p>
 <div><hr></div>
 <h1>Design Idea of the Week </h1>
