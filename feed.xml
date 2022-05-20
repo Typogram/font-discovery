@@ -3,7 +3,7 @@
     <title>FontDiscovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>2022-05-19T23:19:18-04:00</updated>
+    <updated>2022-05-19T23:40:51-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -19,17 +19,21 @@
             <category term="Script"/>
             <category term="Display"/>
 
-        <updated>2022-05-19T23:19:18-04:00</updated>
+        <updated>2022-05-19T23:40:51-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/1/wk70-cover.png" alt="" />
-                    In This Issue… Font of the Week: Langar Design idea: Variable Icons Color&hellip;
+                    Can you profit from font and design tips and learnings? Consider subscribing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/font-discovery/media/posts/1/wk70-cover.png" alt="" />
-                <h1>In This Issue…</h1>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow"><input name="tag" type="hidden" value="fontdiscovery">
+<p align="center"><em>Can you profit from font and design tips and learnings? Consider subscribing to FontDiscovery to get weekly doses of inspirations!</em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<h1>In This Issue…</h1>
 <ul>
 <li><text>Font of the Week: </text><strong><a href="https://fonts.google.com/specimen/Langar" rel="">Langar</a></strong></li>
 <li>Design idea: Variable Icons</li>
