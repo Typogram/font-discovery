@@ -3,7 +3,7 @@
     <title>FontDiscovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>2022-05-20T18:16:28-04:00</updated>
+    <updated>2022-05-20T18:58:36-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -395,7 +395,7 @@
             <category term="Script"/>
             <category term="Display"/>
 
-        <updated>2022-05-20T01:07:01-04:00</updated>
+        <updated>2022-05-20T18:58:36-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/1/wk70-cover.png" alt="" />
@@ -407,7 +407,7 @@
                     <img src="https://typogram.co/font-discovery/media/posts/1/wk70-cover.png" alt="" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em><span data-preserver-spaces="true">Want to learn more about font and design? Subscribe FontDiscovery to get weekly doses of learning and inspiration!</span></em></p>
-<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"> <input class=".bd-subscriber-tag" name="fontdiscovery" type="hidden" value="python"></p>
 </form><hr>
 <h1>In This Issue…</h1>
 <ul>
