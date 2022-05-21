@@ -3,7 +3,7 @@
     <title>FontDiscovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>2022-05-21T01:28:09-04:00</updated>
+    <updated>2022-05-21T01:29:34-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -136,9 +136,11 @@
         </author>
         <link href="https://typogram.co/font-discovery/how-to-use-ibm-plex-font.html"/>
         <id>https://typogram.co/font-discovery/how-to-use-ibm-plex-font.html</id>
+            <category term="Serif"/>
+            <category term="Sans Serif"/>
             <category term="Monospace"/>
 
-        <updated>2022-05-21T01:28:09-04:00</updated>
+        <updated>2022-05-21T01:29:34-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/29/MainShowcase-14.png" alt="IBM Plex Cover " />
