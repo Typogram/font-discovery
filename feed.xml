@@ -3,7 +3,7 @@
     <title>FontDiscovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>2022-05-20T21:38:46-04:00</updated>
+    <updated>2022-05-20T21:42:47-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -294,7 +294,7 @@
         <id>https://typogram.co/font-discovery/how-to-use-playfair-display-font.html</id>
             <category term="Serif"/>
 
-        <updated>2022-05-20T21:35:30-04:00</updated>
+        <updated>2022-05-20T21:42:47-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/87/cover-playfair.png" alt="playfair display cover" />
@@ -306,7 +306,7 @@
                     <img src="https://typogram.co/font-discovery/media/posts/87/cover-playfair.png" alt="playfair display cover" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em><span data-preserver-spaces="true">Want to learn more about font and design? Subscribe FontDiscovery to get weekly doses of learning and inspiration!</span></em></p>
-<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"> <input class="bd-subscriber-tag" name="fontdiscovery" type="hidden" value="fontdiscovery"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"> <input class="bd-subscriber-tag" name="tag" type="hidden" value="fontdiscovery"></p>
 </form><hr>
 <h1>In This Issue…</h1>
 <ul>
