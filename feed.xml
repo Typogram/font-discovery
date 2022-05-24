@@ -3,7 +3,7 @@
     <title>FontDiscovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>2022-05-24T18:40:58-04:00</updated>
+    <updated>2022-05-24T18:45:41-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/font-discovery/how-to-use-bungee-font.html</id>
             <category term="Display"/>
 
-        <updated>2022-05-24T18:22:38-04:00</updated>
+        <updated>2022-05-24T18:42:23-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/89/MainShowcase.png" alt="bungee cover" />
@@ -492,8 +492,10 @@
         </author>
         <link href="https://typogram.co/font-discovery/how-to-use-zilla-slab-font.html"/>
         <id>https://typogram.co/font-discovery/how-to-use-zilla-slab-font.html</id>
+            <category term="Slab Serif"/>
+            <category term="Serif"/>
 
-        <updated>2022-05-24T18:40:58-04:00</updated>
+        <updated>2022-05-24T18:45:41-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/75/zillaslab-cover-0.png" alt="" />
