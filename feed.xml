@@ -3,7 +3,7 @@
     <title>FontDiscovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>2022-06-01T23:10:06-04:00</updated>
+    <updated>2022-06-01T23:12:34-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://typogram.co/font-discovery/how-to-use-nathalia-script-font.html"/>
         <id>https://typogram.co/font-discovery/how-to-use-nathalia-script-font.html</id>
+            <category term="Script"/>
+            <category term="Display"/>
 
-        <updated>2022-06-01T23:10:06-04:00</updated>
+        <updated>2022-06-01T23:11:49-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/22/MainShowcase.png" alt="" />
@@ -89,8 +91,9 @@
         <link href="https://typogram.co/font-discovery/how-to-use-ultra-font.html"/>
         <id>https://typogram.co/font-discovery/how-to-use-ultra-font.html</id>
             <category term="Slab Serif"/>
+            <category term="Display"/>
 
-        <updated>2022-06-01T22:34:48-04:00</updated>
+        <updated>2022-06-01T23:12:21-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/24/MainShowcase-0.png" alt="ultra cover" />
@@ -989,7 +992,7 @@
             <category term="Slab Serif"/>
             <category term="Serif"/>
 
-        <updated>2022-05-24T18:45:41-04:00</updated>
+        <updated>2022-06-01T23:12:34-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/font-discovery/media/posts/75/zillaslab-cover-0.png" alt="" />
