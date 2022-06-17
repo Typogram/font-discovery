@@ -3,7 +3,7 @@
     <title>FontDiscovery</title>
     <link href="https://typogram.co/font-discovery/feed.xml" rel="self" />
     <link href="https://typogram.co/font-discovery" />
-    <updated>2022-06-17T01:27:37-04:00</updated>
+    <updated>2022-06-17T01:30:37-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://typogram.co/font-discovery/how-to-use-compagnon-font.html"/>
         <id>https://typogram.co/font-discovery/how-to-use-compagnon-font.html</id>
+            <category term="Monospace"/>
+            <category term="Display"/>
 
-        <updated>2022-06-17T01:27:37-04:00</updated>
+        <updated>2022-06-17T01:30:37-04:00</updated>
             <summary>
                 <![CDATA[
                     In This Issue… How to Use Compagnon for Logo, Branding &amp; More&hellip;
