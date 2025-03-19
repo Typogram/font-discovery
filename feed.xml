@@ -148,6 +148,7 @@
         <id>https://typogram.co/font-discovery/how-to-use-almendra-display-font.html</id>
         <media:content url="https://typogram.co/font-discovery/media/posts/195/almendra-display-visual-inspiration.jpg" medium="image" />
             <category term="Serif"/>
+            <category term="Script"/>
             <category term="Display"/>
 
         <updated>2025-03-19T15:11:00-04:00</updated>
